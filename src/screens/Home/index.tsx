@@ -8,11 +8,6 @@ export function Home() {
     console.log('Adicionando participante')
   }
 
-
-
-
-
-
   return (
     <View style={styles.container}>
 
